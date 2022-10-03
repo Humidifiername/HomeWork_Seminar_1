@@ -1,0 +1,15 @@
+D:\Git\HomeWork\Task 2\bin\Debug\net6.0\Task 2.exe
+D:\Git\HomeWork\Task 2\bin\Debug\net6.0\Task 2.deps.json
+D:\Git\HomeWork\Task 2\bin\Debug\net6.0\Task 2.runtimeconfig.json
+D:\Git\HomeWork\Task 2\bin\Debug\net6.0\Task 2.dll
+D:\Git\HomeWork\Task 2\bin\Debug\net6.0\Task 2.pdb
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.csproj.AssemblyReference.cache
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.AssemblyInfoInputs.cache
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.AssemblyInfo.cs
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.csproj.CoreCompileInputs.cache
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.dll
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\refint\Task 2.dll
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.pdb
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\Task 2.genruntimeconfig.cache
+D:\Git\HomeWork\Task 2\obj\Debug\net6.0\ref\Task 2.dll
